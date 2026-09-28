@@ -1,0 +1,6 @@
+name: genpark-react-agent-reasoning-interleaved-tool-engine-skill
+version: 1.0.0
+description: ReAct (Reasoning + Acting) execution engine with step-by-step observation injection and scratchpad history tracking
+command: python
+args:
+  - mcp_server.py
