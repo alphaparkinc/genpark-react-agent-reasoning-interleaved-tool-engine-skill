@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-react-agent-reasoning-interleaved-tool-engine-skill"
+version = "1.0.0"
+description = "ReAct (Reasoning + Acting) execution engine with step-by-step observation injection and scratchpad history tracking"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
